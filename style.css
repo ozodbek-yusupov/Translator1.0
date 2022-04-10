@@ -35,8 +35,6 @@ body.active {
    border-radius: 3px;
    padding: 10px;
    background-color: rgba(0,0,0,0.1);
-}
-#result {
    resize: none;
 }
 #lang {
